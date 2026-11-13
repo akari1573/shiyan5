@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">shiyan5</string>
+    <string name="app_name">张可航2024110146</string>
+    <string name="score_format">得分：%1$d</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_restart">重新开始</string>
+    <string name="about_message">姓名：张可航\n学号：2024110146\n实验五：基于RecyclerView与MVC设计模式的翻牌游戏\n游戏规则：翻开3张牌，若3张牌点数相同或花色相同即可消除，全部消除即获胜。</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_finish">结束</string>
+    <string name="play_again">再来一局</string>
+    <string name="game_finished_title">游戏完成</string>
+    <string name="game_finished_message">恭喜！你已完成全部配对，最终得分：%1$d</string>
 </resources>
